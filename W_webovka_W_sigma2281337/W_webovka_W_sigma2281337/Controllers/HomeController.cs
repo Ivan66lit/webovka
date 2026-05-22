@@ -18,7 +18,7 @@ namespace W_webovka_W_sigma2281337.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult About()
         {
             return View();
         }

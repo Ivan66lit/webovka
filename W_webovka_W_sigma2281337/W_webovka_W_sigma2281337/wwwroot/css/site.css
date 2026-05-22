@@ -1,22 +1,357 @@
-html {
-  font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 body {
-  margin-bottom: 60px;
+    background-color: #ffffff;
+    font-family: "Work Sans", sans-serif;
 }
+
+.header {
+    grid-area: header;
+    background-color: #ffffff;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #eee;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+    .logo img {
+        width: 60px;
+        height: 60px;
+        object-fit: cover;
+        margin-right: 5px;
+    }
+
+    .logo h1 {
+        font-weight: 700;
+        font-size: 1.5rem;
+        letter-spacing: 3px;
+        color: #034C87;
+    }
+
+    .logo h2 {
+        font-weight: 700;
+        font-size: 1rem;
+        letter-spacing: 3px;
+        color: #034C87;
+    }
+
+.name {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.separator {
+    width: 2px;
+    background-color: #ccc;
+    margin: 0 20px;
+}
+
+.menu {
+    grid-area: menu;
+    color: white;
+    padding: 30px 20px;
+    flex-grow: 1;
+}
+
+    .menu ul {
+        list-style: none;
+        display: flex;
+        justify-content: flex-end;
+        padding: 0;
+        margin: 0;
+        width: 100%;
+    }
+
+        .menu ul li {
+            margin-bottom: 0px;
+        }
+
+            .menu ul li a {
+                font-family: "Josefin Sans", sans-serif;
+                font-weight: 700;
+                color: #034C87;
+                font-size: 1em;
+                letter-spacing: 2px;
+                text-decoration: none;
+                transition: 0.3s;
+                margin-left: 20px;
+            }
+
+                .menu ul li a.active {
+                    text-decoration: underline;
+                }
+
+            .menu ul li:hover {
+                background-color: rgb(198, 198, 202);
+            }
+
+.sidebar ul li:hover a {
+    color: #fff;
+}
+
+.offer {
+    background-color: #E3E3E3;
+    padding: 8px 8px 58px 8px;
+    gap: 10px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.house {
+    width: 540px;
+    height: 360px;
+    object-fit: cover;
+}
+
+.offer-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    color: #034C87;
+    font-weight: 700;
+}
+
+    .offer-text h4 {
+    }
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #034C87;
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: 600;
+}
+
+.services {
+    margin-top: -50px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.box {
+    width: 100%;
+    aspect-ratio: 1 / 1; /* udělá čtverec */
+    background-color: #737373;
+}
+
+    .box ul {
+        list-style: none;
+    }
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+    /* vycentruje poslední 2 prvky */
+    .gallery .card:nth-child(4) {
+        grid-column: 1 / 2;
+        justify-self: end;
+    }
+
+    .gallery .card:nth-child(5) {
+        grid-column: 3 / 4;
+        justify-self: start;
+    }
+
+.card {
+    text-align: center;
+}
+
+    .card img {
+        width: 100%;
+        max-width: 250px;
+    }
+
+.footer {
+    background-color: #E3E3E3;
+    padding: 40px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 40px;
+    flex-wrap: wrap;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.footer-column {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+    .footer-column h4 {
+        font-weight: 700;
+        margin-bottom: 10px;
+        color: #034C87;
+    }
+
+    .footer-column ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        color: #333;
+    }
+
+        .footer-column ul li {
+            margin-bottom: 5px;
+        }
+
+
+
+.stocks {
+    padding: 40px;
+    background: #f5f5f5;
+}
+
+    .stocks h2 {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+.stocks-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+}
+
+.stock {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+    .stock h3 {
+        margin-bottom: 10px;
+    }
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+section#bitcoin-widget {
+    max-width: 900px;
+    margin: 0 auto;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 15px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+.widget-container {
+    width: 100%;
+    height: 400px;
+}
+
+@media (max-width: 800px) {
+    .footer {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .separator {
+        display: none;
+    }
+}
+
+@media (max-width: 600px) {
+    .widget-container {
+        height: 320px;
+    }
+}
+
+.body-options {
+    font-family: 'Work Sans', sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+
+.order-form-container {
+    background-color: #fff;
+    padding: 30px 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    width: 100%;
+    max-width: 500px;
+}
+
+    .order-form-container h3 {
+        text-align: center;
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+    color: #555;
+}
+
+form input, form select, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+}
+
+form textarea {
+    resize: vertical;
+}
+
+form button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    form button:hover {
+        background-color: #0056b3;
+    }
