@@ -1,25 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\",
+  "WorkspaceRootPath": "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|c:\\webovkac#\\webovka\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|solutionrelative:w_webovka_w_sigma2281337\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|c:\\webovkac#\\webovka\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|solutionrelative:w_webovka_w_sigma2281337\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|c:\\webovkac#\\webovka\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|solutionrelative:w_webovka_w_sigma2281337\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|c:\\webovkac#\\webovka\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|c:\\users\\shtrudel\\desktop\\ivt\\chentsov\\webovka\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|solutionrelative:w_webovka_w_sigma2281337\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|c:\\webovkac#\\webovka\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|c:\\users\\shtrudel\\desktop\\ivt\\chentsov\\webovka\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|solutionrelative:w_webovka_w_sigma2281337\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|c:\\users\\shtrudel\\desktop\\ivt\\chentsov\\webovka\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|solutionrelative:w_webovka_w_sigma2281337\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|c:\\users\\shtrudel\\desktop\\ivt\\chentsov\\webovka\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337\\views\\home\\investments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|solutionrelative:w_webovka_w_sigma2281337\\views\\home\\investments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|c:\\users\\shtrudel\\desktop\\ivt\\chentsov\\webovka\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|solutionrelative:w_webovka_w_sigma2281337\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|c:\\users\\shtrudel\\desktop\\ivt\\chentsov\\webovka\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|solutionrelative:w_webovka_w_sigma2281337\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|c:\\users\\shtrudel\\desktop\\ivt\\chentsov\\webovka\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|solutionrelative:w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -30,43 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "W_webovka_W_sigma2281337\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "W_webovka_W_sigma2281337\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-22T20:27:26.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "W_webovka_W_sigma2281337\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "W_webovka_W_sigma2281337\\Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAADMAAABAAQAAAAADwEUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-20T21:07:36.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "W_webovka_W_sigma2281337\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\wwwroot\\css\\site.css",
               "RelativeToolTip": "W_webovka_W_sigma2281337\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAANgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-05-22T21:01:15.569Z",
               "EditorCaption": ""
@@ -74,23 +56,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "W_webovka_W_sigma2281337\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "W_webovka_W_sigma2281337\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T21:07:36.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Home\\Services.cshtml",
+              "RelativeDocumentMoniker": "W_webovka_W_sigma2281337\\Views\\Home\\Services.cshtml",
+              "ToolTip": "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Home\\Services.cshtml",
+              "RelativeToolTip": "W_webovka_W_sigma2281337\\Views\\Home\\Services.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T18:36:07.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Investments.cshtml",
+              "DocumentMoniker": "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Home\\Investments.cshtml",
+              "RelativeDocumentMoniker": "W_webovka_W_sigma2281337\\Views\\Home\\Investments.cshtml",
+              "ToolTip": "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Home\\Investments.cshtml",
+              "RelativeToolTip": "W_webovka_W_sigma2281337\\Views\\Home\\Investments.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAFIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T18:36:29.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "W_webovka_W_sigma2281337\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "W_webovka_W_sigma2281337\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-22T20:27:26.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "W_webovka_W_sigma2281337\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Controllers\\HomeController.cs",
               "RelativeToolTip": "W_webovka_W_sigma2281337\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-22T20:21:11.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "W_webovka_W_sigma2281337",
-              "DocumentMoniker": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj",
+              "DocumentMoniker": "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj",
               "RelativeDocumentMoniker": "W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj",
-              "ToolTip": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj",
+              "ToolTip": "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj",
               "RelativeToolTip": "W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-05-20T10:12:52.598Z",

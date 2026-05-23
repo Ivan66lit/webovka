@@ -4,9 +4,26 @@
     padding: 0;
 }
 
+
 body {
+    margin: 0; /* Remove the 20px margin—it breaks the header/footer edge alignment */
     background-color: #ffffff;
     font-family: "Work Sans", sans-serif;
+    color: #333;
+    /* Force the footer down */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.container {
+    flex-grow: 1; /* Instructs the main content to take up all available space */
+    padding-bottom: 60px; /* Replaces the broken negative margins with a clean gap */
+}
+
+.services {
+    margin-top: 40px; /* Changed from -50px to a healthy positive gap */
+    margin-bottom: 40px;
 }
 
 .header {
@@ -143,6 +160,11 @@ body {
     margin-top: -50px;
 }
 
+.offer {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
 .grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -194,6 +216,8 @@ body {
     gap: 40px;
     flex-wrap: wrap;
     font-family: 'Work Sans', sans-serif;
+    width: 100%;
+    margin-top: auto; /* Push down automatically if page content is short */
 }
 
 .footer-column {
@@ -248,12 +272,6 @@ body {
         margin-bottom: 10px;
     }
 
-body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-    background-color: #f9f9f9;
-    color: #333;
-}
 
 section#bitcoin-widget {
     max-width: 900px;

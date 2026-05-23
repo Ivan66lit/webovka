@@ -22,9 +22,9 @@
             <ul>
                 <li><a href="#">Prodej</a></li>
                 <li><a href="#">Pronájem</a></li>
-                <li><a href="investments.html">Investice</a></li>
-                <li><a href="services.html">Služby</a></li>
-                <li><a href="about-us.html" class="active">O nás</a></li>
+                <li><a asp-controller="Home" asp-action="Investments">Investice</a></li>
+                <li><a asp-controller="Home" asp-action="Services">Služby</a></li>
+                <li><a asp-controller="Home" asp-action="Index">O nás</a></li>
             </ul>
         </nav>
     </header>
@@ -34,7 +34,7 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    <footer class="footer">
         <div class="footer-column">
             <ul>
                 <li>Prodat</li>

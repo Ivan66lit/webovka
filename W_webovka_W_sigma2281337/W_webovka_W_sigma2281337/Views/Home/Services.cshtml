@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Anarion</title>
+    <link rel="icon" type="image/png" href="images/favicon.png">
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="logo">
+            <img src="images/logo.png">
+            <div class="name">       
+                <h1>ANARION</h1>
+                <h2>& Co</h2>
+            </div>
+        </div>
+        <div class="separator"></div>
+        <nav class="menu">
+            <ul>
+                <li><a href="#">Prodej</a></li>
+                <li><a href="#">Pronájem</a></li>
+                <li><a href="investments.html">Investice</a></li>
+                <li><a href="services.html" class="active">Služby</a></li>
+                <li><a href="about-us.html">O nás</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="body-options">
+        <div class="order-form-container">
+            <h3>Objednávkový formulář</h3>
+            <form>
+                <label for="first-name">Jméno:</label>
+                <input type="text" id="first-name" name="first-name" placeholder="Vaše jméno">
+
+                <label for="last-name">Příjmení:</label>
+                <input type="text" id="last-name" name="last-name" placeholder="Vaše příjmení">
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" placeholder="Váš email">
+
+                <label for="interest">O co máte zájem:</label>
+                <select id="interest" name="interest">
+                    <option value="">--Vyberte--</option>
+                    <option value="prodej">Prodej nemovitosti</option>
+                    <option value="pronajem">Pronájem</option>
+                    <option value="investice">Investice</option>
+                    <option value="sluzby">Služby</option>
+                </select>
+
+                <label for="message">Poznámka / doplňující informace:</label>
+                <textarea id="message" name="message" placeholder="Sem můžete napsat cokoliv dalšího..." rows="4"></textarea>
+
+                <button type="button">Odeslat (nic se nepřihlásí)</button>
+            </form>
+        </div>
+    </main>
+    
+    <footer class="footer">
+        <div class="footer-column">
+            <ul>
+                <li>Prodat</li>
+                <li>Koupit</li>
+                <li>Pronájem</li>
+            </ul>
+        </div>
+
+        <div class="separator"></div>
+
+        <div class="footer-column">
+            <h4>Služby</h4>
+            <ul>
+                <li>Správa prostoru/bytu</li>
+                <li>Hledání kupujícího/nájemce</li>
+                <li>Jednací proces</li>
+            </ul>
+        </div>
+
+        <div class="separator"></div>
+
+        <div class="footer-column">
+            <ul>
+                <li><i class="bi bi-envelope"></i> info@anarion.cz</li>
+                <li><i class="bi bi-telephone"></i> +420 123 456 789</li>
+                <li><i class="bi bi-instagram"></i> anarion_realestate</li>
+            </ul>
+        </div>
+    </footer>
+</body>
+</html>

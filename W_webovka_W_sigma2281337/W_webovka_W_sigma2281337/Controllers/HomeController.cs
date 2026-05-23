@@ -17,7 +17,14 @@ namespace W_webovka_W_sigma2281337.Controllers
         {
             return View();
         }
-
+        public IActionResult Services()
+        {
+            return View();
+        }
+        public IActionResult Investments()
+        {
+            return View();
+        }
         public IActionResult About()
         {
             return View();
