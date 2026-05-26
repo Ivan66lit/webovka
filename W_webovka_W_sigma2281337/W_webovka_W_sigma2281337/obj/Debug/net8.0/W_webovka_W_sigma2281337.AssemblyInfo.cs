@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("W_webovka_W_sigma2281337")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02699f47ab541eb499b20f56252fe42c474b4b66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bebc465ba5a116f7471769bedf6e453dfe8700f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("W_webovka_W_sigma2281337")]
 [assembly: System.Reflection.AssemblyTitleAttribute("W_webovka_W_sigma2281337")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

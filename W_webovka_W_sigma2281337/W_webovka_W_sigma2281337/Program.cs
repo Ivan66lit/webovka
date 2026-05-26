@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using W_webovka_W_sigma2281337.Data;
+
 namespace W_webovka_W_sigma2281337
 {
     public class Program
@@ -8,6 +11,8 @@ namespace W_webovka_W_sigma2281337
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<AppDbContext>(options =>
+                options.UseSqlite("Data Source=orders.db"));
 
             var app = builder.Build();
 

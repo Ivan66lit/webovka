@@ -3,18 +3,20 @@
     <main class="body-options">
         <div class="order-form-container">
             <h3>Objednávkový formulář</h3>
-            <form>
+            <form asp-controller="Home" asp-action="Services" method="post">
+                @Html.AntiForgeryToken()
+
                 <label for="first-name">Jméno:</label>
-                <input type="text" id="first-name" name="first-name" placeholder="Vaše jméno">
+                <input type="text" id="first-name" name="FirstName" placeholder="Vaše jméno">
 
                 <label for="last-name">Příjmení:</label>
-                <input type="text" id="last-name" name="last-name" placeholder="Vaše příjmení">
+                <input type="text" id="last-name" name="LastName" placeholder="Vaše příjmení">
 
                 <label for="email">Email:</label>
-                <input type="email" id="email" name="email" placeholder="Váš email">
+                <input type="email" id="email" name="Email" placeholder="Váš email">
 
                 <label for="interest">O co máte zájem:</label>
-                <select id="interest" name="interest">
+                <select id="interest" name="Interest">
                     <option value="">--Vyberte--</option>
                     <option value="prodej">Prodej nemovitosti</option>
                     <option value="pronajem">Pronájem</option>
@@ -23,9 +25,9 @@
                 </select>
 
                 <label for="message">Poznámka / doplňující informace:</label>
-                <textarea id="message" name="message" placeholder="Sem můžete napsat cokoliv dalšího..." rows="4"></textarea>
+                <textarea id="message" name="Message" placeholder="Sem můžete napsat cokoliv dalšího..." rows="4"></textarea>
 
-                <button type="button">Odeslat (nic se nepřihlásí)</button>
+                <button type="submit">Odeslat</button>
             </form>
         </div>
     </main>
