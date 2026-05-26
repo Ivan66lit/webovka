@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|c:\\webovkac#\\webovka\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|solutionrelative:w_webovka_w_sigma2281337\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|c:\\webovkac#\\webovka\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|solutionrelative:w_webovka_w_sigma2281337\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|c:\\webovkac#\\webovka\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|solutionrelative:w_webovka_w_sigma2281337\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|c:\\webovkac#\\webovka\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337\\views\\home\\investments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|solutionrelative:w_webovka_w_sigma2281337\\views\\home\\investments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|c:\\webovkac#\\webovka\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|solutionrelative:w_webovka_w_sigma2281337\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65AB7A94-7B1D-469F-AF2F-6636ED155382}|W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj|c:\\webovkac#\\webovka\\w_webovka_w_sigma2281337\\w_webovka_w_sigma2281337\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "W_webovka_W_sigma2281337\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Shared\\_Layout.cshtml.css*",
+              "RelativeToolTip": "W_webovka_W_sigma2281337\\Views\\Shared\\_Layout.cshtml.css*",
+              "ViewState": "AgIAABwAAAAABAAAAAABwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-26T14:23:08.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "site.js",
               "DocumentMoniker": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "W_webovka_W_sigma2281337\\wwwroot\\js\\site.js",
@@ -50,12 +67,11 @@
               "RelativeToolTip": "W_webovka_W_sigma2281337\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-05-23T19:48:07.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T19:48:07.13Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "site.css",
               "DocumentMoniker": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "W_webovka_W_sigma2281337\\wwwroot\\css\\site.css",
@@ -63,12 +79,11 @@
               "RelativeToolTip": "W_webovka_W_sigma2281337\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-05-22T21:01:15.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T21:01:15.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "W_webovka_W_sigma2281337\\Views\\Home\\Index.cshtml",
@@ -76,25 +91,24 @@
               "RelativeToolTip": "W_webovka_W_sigma2281337\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-20T21:07:36.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T21:07:36.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Services.cshtml",
               "DocumentMoniker": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Home\\Services.cshtml",
               "RelativeDocumentMoniker": "W_webovka_W_sigma2281337\\Views\\Home\\Services.cshtml",
               "ToolTip": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Home\\Services.cshtml",
               "RelativeToolTip": "W_webovka_W_sigma2281337\\Views\\Home\\Services.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwB8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-23T18:36:07.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Investments.cshtml",
               "DocumentMoniker": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Home\\Investments.cshtml",
               "RelativeDocumentMoniker": "W_webovka_W_sigma2281337\\Views\\Home\\Investments.cshtml",
@@ -102,25 +116,24 @@
               "RelativeToolTip": "W_webovka_W_sigma2281337\\Views\\Home\\Investments.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-23T18:36:29.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T18:36:29.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "W_webovka_W_sigma2281337\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "W_webovka_W_sigma2281337\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAADAzMzMzMwXwAcAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-22T20:27:26.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "W_webovka_W_sigma2281337\\Controllers\\HomeController.cs",
@@ -128,8 +141,7 @@
               "RelativeToolTip": "W_webovka_W_sigma2281337\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T20:21:11.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T20:21:11.199Z"
             }
           ]
         }
