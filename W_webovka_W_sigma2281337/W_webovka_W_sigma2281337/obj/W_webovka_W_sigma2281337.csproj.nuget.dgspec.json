@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj": {}
+    "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj": {}
   },
   "projects": {
-    "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj": {
+    "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj",
+        "projectUniqueName": "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj",
         "projectName": "W_webovka_W_sigma2281337",
-        "projectPath": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj",
-        "packagesPath": "C:\\Users\\clatxx\\.nuget\\packages\\",
-        "outputPath": "C:\\WebovkaC#\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\obj\\",
+        "projectPath": "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337.csproj",
+        "packagesPath": "C:\\Users\\shtrudel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shtrudel\\Desktop\\ivt\\Chentsov\\webovka\\W_webovka_W_sigma2281337\\W_webovka_W_sigma2281337\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\clatxx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shtrudel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,7 +30,6 @@
         },
         "frameworks": {
           "net8.0": {
-            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -45,11 +44,10 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
-          "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Sqlite": {
@@ -82,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
